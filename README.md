@@ -2,8 +2,9 @@
 In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascript.
 
 ## Projects
-[1.Skills slider]('https://github.com/imlavaraju/100_Days_ChallengeOf_webDev_projects/tree/main/1.Skills_slider')
+[1.Skills slider](https://github.com/imlavaraju/100_Days_ChallengeOf_webDev_projects/tree/main/1.Skills_slider)
 
 
 ## Results
-[1.Skills slider]('https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/1.Skills_slider/')
+[1.Skills slider](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/1.Skills_slider/
+)
