@@ -6,4 +6,4 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 
 ## Results
-[1.Skills_slider('')
+[1.Skills_slider]('https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/1.Skills_slider/')
