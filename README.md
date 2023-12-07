@@ -10,4 +10,4 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 ## Results
 [1.Skills slider](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/1.Skills_slider/)
 
-[2.Profile Card Design](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/2.Profile Card Design/)
+[2.Profile Card Design](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/2.Profile%20Card%20Design/)
