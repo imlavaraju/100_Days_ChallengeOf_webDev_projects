@@ -72,6 +72,15 @@ body{
     background-color: white;
     align-items: center;
 }
-.btn1:hover .btn2:hover .btn3:hover {
+.btn1:hover {
     scale: 1.1;
+    box-shadow:white;
+}
+.btn2:hover{
+    scale: 1.1;
+    box-shadow:white;
+}
+.btn3:hover {
+    scale: 1.1;
+    box-shadow:white;
 }
