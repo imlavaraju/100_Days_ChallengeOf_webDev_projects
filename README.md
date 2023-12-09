@@ -8,6 +8,8 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 [3.Counter](https://github.com/imlavaraju/100_Days_ChallengeOf_webDev_projects/tree/main/3.Counter)
 
+[4.Waivy animation]()
+
 
 ## Results
 [1.Skills slider](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/1.Skills_slider/)
@@ -15,3 +17,5 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 [2.Profile Card Design](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/2.Profile%20Card%20Design/)
 
 [3.Counter](https://imlavaraju.github.io/100_Days_ChallengeOf_webDev_projects/3.Counter/)
+
+[4.Waivy animation]()
