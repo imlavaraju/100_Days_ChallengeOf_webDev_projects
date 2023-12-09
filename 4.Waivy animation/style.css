@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    display: grid;
+    grid-template-rows: 3;
+    overflow: hidden;
+}
+.wai{
+    width: max-content;
+    overflow: hidden;
+}
+.waivy{
+    width: max-content;
+    overflow: hidden;
+    -webkit-box-reflect : below -20px linear-gradient(transparent,rgba(94, 87, 87, 0.2));
+}
+.waivy span{
+    position: relative;
+    display: inline-block;
+    font-size: 4rem;
+    text-transform: uppercase;
+    animation: waivy 1s infinite;
+    animation-delay: calc(.1s * var(--i));
+}
+@keyframes waivy{
+    0%,
+    40%,
+    100% {
+        transform: translateY(0);
+    }
+    20%{
+        transform: translateY(-20px);
+    }
+}
+.one{
+    grid-row: 1;
+
+}
+.two{
+    grid-row: 2;
+}
+.slider{
+    position: relative;
+    top: -60px;
+    font-size: 24px;
+    font-weight: 400;
+    animation: loop 1s infinite linear;
+    width: max-content;
+    border: 2px solid white;
+
+}
+@keyframes loop {
+    0%{
+        transform: translateX(-20%);
+    }
+    100%{
+        transform: translateX(50%);
+    }
+}
+.btn{
+    
+    grid-row: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.dark{
+    background-color: white;
+    color: black;
+}
