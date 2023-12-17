@@ -14,7 +14,7 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 [6.]()
 
-[7]()
+[7.]()
 
 
 ## Results
@@ -30,4 +30,4 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 [6.]()
 
-[7]()
+[7.]()
