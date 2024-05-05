@@ -12,7 +12,7 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 [5.Guess number](https://github.com/imlavaraju/webDev_projects/tree/main/5.Guess%20number)
 
-[4.spinner](https://github.com/imlavaraju/webDev_projects/tree/main/spinner)
+[6.spinner](https://github.com/imlavaraju/webDev_projects/tree/main/spinner)
 
 [7.]()
 
@@ -28,7 +28,6 @@ In this repository,I build 100 projects of 100 Days using HTML , CSS , Javascrip
 
 [5.Guess number](https://imlavaraju.github.io/webDev_projects/5.Guess%20number/)
 
-[6.spinner](https://imlavaraju.github.io/webDev_projects/spinner
-/)
+[6.spinner](https://imlavaraju.github.io/webDev_projects/spinner/)
 
 [7.]()
